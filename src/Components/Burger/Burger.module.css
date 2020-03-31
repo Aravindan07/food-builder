@@ -2,7 +2,7 @@
   width: 100%;
   margin: auto;
   height: 250px;
-  /* overflow: scroll;  Watch out for this place in case of burger misplace!! */
+  overflow: scroll; /* Watch out for this place in case of burger misplace!! */
   text-align: center;
   font-weight: bold;
   font-size: 1.2rem;
